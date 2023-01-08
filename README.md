@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Michael-Alexandre
-- 👀 I’m interested in Python, Django, Java
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Python, Django, Java, JS
 - 📫 How to reach me ... majordomo.noc@gmail.com
 
 <!---
